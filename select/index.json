@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "桃源郷とタクシー",
+  "base_artist": "Mega Shinnosuke",
+  "createdAt": "2025-12-06T06:42:36.995051Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桃源郷とタクシー",
+      "artist": "Mega Shinnosuke",
+      "has_synced": false,
+      "path": "select/pl_01_桃源郷とタクシー_Mega_Shinnosuke.txt"
+    }
+  ]
+}
